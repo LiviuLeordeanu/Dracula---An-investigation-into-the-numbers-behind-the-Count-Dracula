@@ -1,0 +1,11 @@
+Requirements
+* -acces to internet for replicating the scraping of data from:
+	* https://www.gutenberg.org/files/345/345-h/345-h.htm
+	* https://en.wikipedia.org/wiki/Most_common_words_in_English
+* Jupyter lab
+	* Pandas
+	* Word cloud
+	* BeautifulSoup
+	* Numpy
+	* PIL
+	* Matplolib
